@@ -1,4 +1,4 @@
-# eat_it
+# Hidden Bottom Nav
 
 A new Flutter application.
 
